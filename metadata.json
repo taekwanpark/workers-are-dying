@@ -1,0 +1,7 @@
+{
+  "name": "WorkSync Dashboard",
+  "description": "A comprehensive employee attendance and productivity dashboard featuring real-time tracking, AI-powered workforce insights, and detailed visual analytics for team and individual performance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
